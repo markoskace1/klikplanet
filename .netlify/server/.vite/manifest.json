@@ -1,0 +1,267 @@
+{
+  ".svelte-kit/generated/server/internal.js": {
+    "file": "internal.js",
+    "name": "internal",
+    "src": ".svelte-kit/generated/server/internal.js",
+    "isEntry": true,
+    "imports": [
+      "_internal.js"
+    ]
+  },
+  "_PageHeading.js": {
+    "file": "chunks/PageHeading.js",
+    "name": "PageHeading",
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "_client.js": {
+    "file": "chunks/client.js",
+    "name": "client",
+    "imports": [
+      "_exports.js"
+    ]
+  },
+  "_exports.js": {
+    "file": "chunks/exports.js",
+    "name": "exports"
+  },
+  "_index.js": {
+    "file": "chunks/index.js",
+    "name": "index",
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "_internal.js": {
+    "file": "chunks/internal.js",
+    "name": "internal",
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "_ssr.js": {
+    "file": "chunks/ssr.js",
+    "name": "ssr"
+  },
+  "node_modules/@fontsource/poppins/files/poppins-devanagari-400-normal.woff": {
+    "file": "_app/immutable/assets/poppins-devanagari-400-normal.C8-_4xxD.woff",
+    "src": "node_modules/@fontsource/poppins/files/poppins-devanagari-400-normal.woff"
+  },
+  "node_modules/@fontsource/poppins/files/poppins-devanagari-400-normal.woff2": {
+    "file": "_app/immutable/assets/poppins-devanagari-400-normal.DXhQFdtL.woff2",
+    "src": "node_modules/@fontsource/poppins/files/poppins-devanagari-400-normal.woff2"
+  },
+  "node_modules/@fontsource/poppins/files/poppins-devanagari-600-normal.woff": {
+    "file": "_app/immutable/assets/poppins-devanagari-600-normal.D_hkOiD3.woff",
+    "src": "node_modules/@fontsource/poppins/files/poppins-devanagari-600-normal.woff"
+  },
+  "node_modules/@fontsource/poppins/files/poppins-devanagari-600-normal.woff2": {
+    "file": "_app/immutable/assets/poppins-devanagari-600-normal.B64POISR.woff2",
+    "src": "node_modules/@fontsource/poppins/files/poppins-devanagari-600-normal.woff2"
+  },
+  "node_modules/@fontsource/poppins/files/poppins-devanagari-700-normal.woff": {
+    "file": "_app/immutable/assets/poppins-devanagari-700-normal.BAn-kOyM.woff",
+    "src": "node_modules/@fontsource/poppins/files/poppins-devanagari-700-normal.woff"
+  },
+  "node_modules/@fontsource/poppins/files/poppins-devanagari-700-normal.woff2": {
+    "file": "_app/immutable/assets/poppins-devanagari-700-normal.x1FzP7sX.woff2",
+    "src": "node_modules/@fontsource/poppins/files/poppins-devanagari-700-normal.woff2"
+  },
+  "node_modules/@fontsource/poppins/files/poppins-latin-400-normal.woff": {
+    "file": "_app/immutable/assets/poppins-latin-400-normal.B_rUbtde.woff",
+    "src": "node_modules/@fontsource/poppins/files/poppins-latin-400-normal.woff"
+  },
+  "node_modules/@fontsource/poppins/files/poppins-latin-400-normal.woff2": {
+    "file": "_app/immutable/assets/poppins-latin-400-normal.cpxAROuN.woff2",
+    "src": "node_modules/@fontsource/poppins/files/poppins-latin-400-normal.woff2"
+  },
+  "node_modules/@fontsource/poppins/files/poppins-latin-600-normal.woff": {
+    "file": "_app/immutable/assets/poppins-latin-600-normal.DYo_fp3E.woff",
+    "src": "node_modules/@fontsource/poppins/files/poppins-latin-600-normal.woff"
+  },
+  "node_modules/@fontsource/poppins/files/poppins-latin-600-normal.woff2": {
+    "file": "_app/immutable/assets/poppins-latin-600-normal.zEkxB9Mr.woff2",
+    "src": "node_modules/@fontsource/poppins/files/poppins-latin-600-normal.woff2"
+  },
+  "node_modules/@fontsource/poppins/files/poppins-latin-700-normal.woff": {
+    "file": "_app/immutable/assets/poppins-latin-700-normal.CAvHRXwD.woff",
+    "src": "node_modules/@fontsource/poppins/files/poppins-latin-700-normal.woff"
+  },
+  "node_modules/@fontsource/poppins/files/poppins-latin-700-normal.woff2": {
+    "file": "_app/immutable/assets/poppins-latin-700-normal.Qrb0O0WB.woff2",
+    "src": "node_modules/@fontsource/poppins/files/poppins-latin-700-normal.woff2"
+  },
+  "node_modules/@fontsource/poppins/files/poppins-latin-ext-400-normal.woff": {
+    "file": "_app/immutable/assets/poppins-latin-ext-400-normal.DdMv8PPD.woff",
+    "src": "node_modules/@fontsource/poppins/files/poppins-latin-ext-400-normal.woff"
+  },
+  "node_modules/@fontsource/poppins/files/poppins-latin-ext-400-normal.woff2": {
+    "file": "_app/immutable/assets/poppins-latin-ext-400-normal.CZnfsGfc.woff2",
+    "src": "node_modules/@fontsource/poppins/files/poppins-latin-ext-400-normal.woff2"
+  },
+  "node_modules/@fontsource/poppins/files/poppins-latin-ext-600-normal.woff": {
+    "file": "_app/immutable/assets/poppins-latin-ext-600-normal.Bw2Y7KI9.woff",
+    "src": "node_modules/@fontsource/poppins/files/poppins-latin-ext-600-normal.woff"
+  },
+  "node_modules/@fontsource/poppins/files/poppins-latin-ext-600-normal.woff2": {
+    "file": "_app/immutable/assets/poppins-latin-ext-600-normal.CjZjQJk3.woff2",
+    "src": "node_modules/@fontsource/poppins/files/poppins-latin-ext-600-normal.woff2"
+  },
+  "node_modules/@fontsource/poppins/files/poppins-latin-ext-700-normal.woff": {
+    "file": "_app/immutable/assets/poppins-latin-ext-700-normal.DP68CcFE.woff",
+    "src": "node_modules/@fontsource/poppins/files/poppins-latin-ext-700-normal.woff"
+  },
+  "node_modules/@fontsource/poppins/files/poppins-latin-ext-700-normal.woff2": {
+    "file": "_app/immutable/assets/poppins-latin-ext-700-normal.j1no4XVB.woff2",
+    "src": "node_modules/@fontsource/poppins/files/poppins-latin-ext-700-normal.woff2"
+  },
+  "node_modules/@fontsource/saira/files/saira-latin-400-normal.woff": {
+    "file": "_app/immutable/assets/saira-latin-400-normal.BSNWOrzh.woff",
+    "src": "node_modules/@fontsource/saira/files/saira-latin-400-normal.woff"
+  },
+  "node_modules/@fontsource/saira/files/saira-latin-400-normal.woff2": {
+    "file": "_app/immutable/assets/saira-latin-400-normal.evQCwAL0.woff2",
+    "src": "node_modules/@fontsource/saira/files/saira-latin-400-normal.woff2"
+  },
+  "node_modules/@fontsource/saira/files/saira-latin-ext-400-normal.woff": {
+    "file": "_app/immutable/assets/saira-latin-ext-400-normal.yLeaX2Ly.woff",
+    "src": "node_modules/@fontsource/saira/files/saira-latin-ext-400-normal.woff"
+  },
+  "node_modules/@fontsource/saira/files/saira-latin-ext-400-normal.woff2": {
+    "file": "_app/immutable/assets/saira-latin-ext-400-normal.DqP0zq5F.woff2",
+    "src": "node_modules/@fontsource/saira/files/saira-latin-ext-400-normal.woff2"
+  },
+  "node_modules/@fontsource/saira/files/saira-vietnamese-400-normal.woff": {
+    "file": "_app/immutable/assets/saira-vietnamese-400-normal.f1KysE9o.woff",
+    "src": "node_modules/@fontsource/saira/files/saira-vietnamese-400-normal.woff"
+  },
+  "node_modules/@fontsource/saira/files/saira-vietnamese-400-normal.woff2": {
+    "file": "_app/immutable/assets/saira-vietnamese-400-normal.CwGpp9Kq.woff2",
+    "src": "node_modules/@fontsource/saira/files/saira-vietnamese-400-normal.woff2"
+  },
+  "node_modules/@fontsource/syncopate/files/syncopate-latin-700-normal.woff": {
+    "file": "_app/immutable/assets/syncopate-latin-700-normal.ZVUETrF2.woff",
+    "src": "node_modules/@fontsource/syncopate/files/syncopate-latin-700-normal.woff"
+  },
+  "node_modules/@fontsource/syncopate/files/syncopate-latin-700-normal.woff2": {
+    "file": "_app/immutable/assets/syncopate-latin-700-normal.D6Fv_luC.woff2",
+    "src": "node_modules/@fontsource/syncopate/files/syncopate-latin-700-normal.woff2"
+  },
+  "node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
+    "file": "entries/fallbacks/error.svelte.js",
+    "name": "entries/fallbacks/error.svelte",
+    "src": "node_modules/@sveltejs/kit/src/runtime/components/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js",
+      "_client.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/server/index.js": {
+    "file": "index.js",
+    "name": "index",
+    "src": "node_modules/@sveltejs/kit/src/runtime/server/index.js",
+    "isEntry": true,
+    "imports": [
+      "_internal.js",
+      "_exports.js",
+      "_index.js"
+    ]
+  },
+  "src/lib/images/green-planet-bg.webp": {
+    "file": "_app/immutable/assets/green-planet-bg.CYV-UPUj.webp",
+    "src": "src/lib/images/green-planet-bg.webp"
+  },
+  "src/lib/images/logo-klik-lime.png": {
+    "file": "_app/immutable/assets/logo-klik-lime.B4JXrUOg.png",
+    "src": "src/lib/images/logo-klik-lime.png"
+  },
+  "src/lib/images/online-store.png": {
+    "file": "_app/immutable/assets/online-store.Uf1OQJoG.png",
+    "src": "src/lib/images/online-store.png"
+  },
+  "src/lib/images/website-icon.png": {
+    "file": "_app/immutable/assets/website-icon.CYkdojjL.png",
+    "src": "src/lib/images/website-icon.png"
+  },
+  "src/routes/+layout.svelte": {
+    "file": "entries/pages/_layout.svelte.js",
+    "name": "entries/pages/_layout.svelte",
+    "src": "src/routes/+layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js",
+      "_index.js",
+      "_client.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_layout.KJf0pJ5F.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/logo-klik-lime.B4JXrUOg.png",
+      "_app/immutable/assets/green-planet-bg.CYV-UPUj.webp",
+      "_app/immutable/assets/syncopate-latin-700-normal.D6Fv_luC.woff2",
+      "_app/immutable/assets/syncopate-latin-700-normal.ZVUETrF2.woff",
+      "_app/immutable/assets/saira-vietnamese-400-normal.CwGpp9Kq.woff2",
+      "_app/immutable/assets/saira-vietnamese-400-normal.f1KysE9o.woff",
+      "_app/immutable/assets/saira-latin-ext-400-normal.DqP0zq5F.woff2",
+      "_app/immutable/assets/saira-latin-ext-400-normal.yLeaX2Ly.woff",
+      "_app/immutable/assets/saira-latin-400-normal.evQCwAL0.woff2",
+      "_app/immutable/assets/saira-latin-400-normal.BSNWOrzh.woff",
+      "_app/immutable/assets/poppins-devanagari-400-normal.DXhQFdtL.woff2",
+      "_app/immutable/assets/poppins-devanagari-400-normal.C8-_4xxD.woff",
+      "_app/immutable/assets/poppins-latin-ext-400-normal.CZnfsGfc.woff2",
+      "_app/immutable/assets/poppins-latin-ext-400-normal.DdMv8PPD.woff",
+      "_app/immutable/assets/poppins-latin-400-normal.cpxAROuN.woff2",
+      "_app/immutable/assets/poppins-latin-400-normal.B_rUbtde.woff",
+      "_app/immutable/assets/poppins-devanagari-600-normal.B64POISR.woff2",
+      "_app/immutable/assets/poppins-devanagari-600-normal.D_hkOiD3.woff",
+      "_app/immutable/assets/poppins-latin-ext-600-normal.CjZjQJk3.woff2",
+      "_app/immutable/assets/poppins-latin-ext-600-normal.Bw2Y7KI9.woff",
+      "_app/immutable/assets/poppins-latin-600-normal.zEkxB9Mr.woff2",
+      "_app/immutable/assets/poppins-latin-600-normal.DYo_fp3E.woff",
+      "_app/immutable/assets/poppins-devanagari-700-normal.x1FzP7sX.woff2",
+      "_app/immutable/assets/poppins-devanagari-700-normal.BAn-kOyM.woff",
+      "_app/immutable/assets/poppins-latin-ext-700-normal.j1no4XVB.woff2",
+      "_app/immutable/assets/poppins-latin-ext-700-normal.DP68CcFE.woff",
+      "_app/immutable/assets/poppins-latin-700-normal.Qrb0O0WB.woff2",
+      "_app/immutable/assets/poppins-latin-700-normal.CAvHRXwD.woff"
+    ]
+  },
+  "src/routes/+layout.ts": {
+    "file": "entries/pages/_layout.ts.js",
+    "name": "entries/pages/_layout.ts",
+    "src": "src/routes/+layout.ts",
+    "isEntry": true
+  },
+  "src/routes/+page.svelte": {
+    "file": "entries/pages/_page.svelte.js",
+    "name": "entries/pages/_page.svelte",
+    "src": "src/routes/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "src/routes/cenik/+page.svelte": {
+    "file": "entries/pages/cenik/_page.svelte.js",
+    "name": "entries/pages/cenik/_page.svelte",
+    "src": "src/routes/cenik/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js",
+      "_PageHeading.js"
+    ]
+  },
+  "src/routes/storitve/+page.svelte": {
+    "file": "entries/pages/storitve/_page.svelte.js",
+    "name": "entries/pages/storitve/_page.svelte",
+    "src": "src/routes/storitve/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js",
+      "_PageHeading.js"
+    ]
+  }
+}
